@@ -1,4 +1,5 @@
-NO.REG	: 2320010122
-Nama 	: Awwal Yori Fairuzy
-Jurusan	: Software Engineer
-Kelas	: 3SE5
+NO.REG	 : 2320010122
+Nama 	 : Awwal Yori Fairuzy
+Jurusan	 : Software Engineer
+Kelas	 : 3SE5
+Angkatan : 2023
